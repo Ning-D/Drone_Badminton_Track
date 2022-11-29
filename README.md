@@ -6,8 +6,12 @@
 - python 3.8
 - When creating a new virtual environment, run `pip install -r requirements.txt`
 
+
+
 ## Usage
 
+
+- pretrained weights yolov5x.pt can be download from: https://drive.google.com/file/d/172_phnHIz5MmGQ_EORry1rEng3zH-3yB/view?usp=share_link
 - input video source: `--source badminton_example`
 - object detection model: `--yolo_model ./model/yolov5x.pt`
 - tracking model: `--deep_sort_model ./model/osnet_x1_0_market_256x128_amsgrad_ep150_stp60_lr0.0015_b64_fb10_softmax_labelsmooth_flip.pth` 
