@@ -1,7 +1,6 @@
 # Drone_Badminton_Track
 
 # The code for player tracking with yolo v5 and deepsort
-It worked well in badminton doubles, but may not work well for more complex MOT. 
 
 ## Requirements
 - python 3.8
