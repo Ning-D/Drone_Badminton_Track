@@ -9,6 +9,7 @@
 ## Usage
 - First, check and set the folder structure of input videos.
 - Pretrained weights yolov5x.pt can be download from: https://drive.google.com/file/d/172_phnHIz5MmGQ_EORry1rEng3zH-3yB/view?usp=share_link
+
 You can set below arguments such as:
 
 - input video source: `--source badminton_example`
