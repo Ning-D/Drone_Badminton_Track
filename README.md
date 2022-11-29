@@ -20,5 +20,4 @@ It worked well in badminton doubles, but may not work well for more complex MOT.
 
 
 ## Acknowledgements:
-For this project, we relied on research codes from:
-*[YOLO5_StrongSORT_OSNet]https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
+For this project, we relied on research codes from:https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
