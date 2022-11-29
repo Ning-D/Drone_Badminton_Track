@@ -16,3 +16,9 @@ It worked well in badminton doubles, but may not work well for more complex MOT.
 - save video tracking results: `--save-vid`
 - save MOT compliant results to *.txt: `--save-txt`
 - output folder: `--project ../yolov5_deepsort_results/badminton_doubles`
+
+
+
+## Acknowledgements:
+For this project, we relied on research codes from:
+*[YOLO5_StrongSORT_OSNet]https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
