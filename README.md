@@ -1,9 +1,5 @@
 # Drone_Badminton_Track
 
-#Data:
-
-*Badminton Drone Video can be downloaded from 
-
 # The code for player tracking with yolo v5 and deepsort
 It worked well in badminton doubles, but may not work well for more complex MOT. 
 
