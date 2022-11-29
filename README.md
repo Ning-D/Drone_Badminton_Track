@@ -4,7 +4,7 @@
 It worked well in badminton doubles, but may not work well for more complex MOT. 
 
 ## Requirements
-- python 3.8-
+- python 3.8
 - When creating a new virtual environment, run `pip install -r requirements.txt`
 
 ## Usage
