@@ -22,7 +22,7 @@ You can set below arguments such as:
 - To test drone badminton examples, please run `python3 Track.py --yolo_model ./model/yolov5x.pt --img 1280 --deep_sort_model ./model/osnet_x1_0_market_256x128_amsgrad_ep150_stp60_lr0.0015_b64_fb10_softmax_labelsmooth_flip.pth --classes 0 --save-vid --save-txt --project ./output`
 
 
-# The code for shuttle detection with TrackNet
+# The code for shuttle tracking with TrackNet
 
 
 
