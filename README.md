@@ -29,4 +29,6 @@ You can set below arguments such as:
 
 
 ## Acknowledgements:
-For this project, we relied on research codes from: https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet and https://nol.cs.nctu.edu.tw:234/open-source/TrackNet
+For this project, we relied on research codes from: 
+1. https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet  
+2. https://nol.cs.nctu.edu.tw:234/open-source/TrackNet
