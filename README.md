@@ -24,7 +24,8 @@ You can set below arguments such as:
 
 # The code for shuttle tracking with TrackNet
 
-
+- Pretrained weights model.3 (Notice: the weights are from original TrackNet project, we did not train the weights using drone video) can be download from: https://drive.google.com/drive/folders/19DlrneIMor8S0owoc8LHTVpZMAwx8XV3?usp=share_link
+- To test drone badminton examples, please run `python3  Track.py  --save_weights_path=weights/model.3   --n_classes=256`
 
 
 
